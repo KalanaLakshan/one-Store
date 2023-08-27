@@ -1,0 +1,1 @@
+<h1 class="text-grey text-center bg-dark p-1"><?php echo $orgName; ?></h1>
