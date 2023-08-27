@@ -1,0 +1,12 @@
+Login Details
+-----------------
+
+Admin Login
+-----------------
+Admin 
+123456789
+
+User Login
+---------------
+ABC Company 
+123456789
